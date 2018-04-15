@@ -1,0 +1,6 @@
+[package]
+name = "r2egex"
+version = "0.1.0"
+authors = ["0x6d61 <koba19960823@gmail.com>"]
+
+[dependencies]
